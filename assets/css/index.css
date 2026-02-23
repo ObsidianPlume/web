@@ -89,7 +89,7 @@ figcaption h1::before {
 }
 
 figcaption span {
-  font-size: clamp(0.65rem, 2.5cqw, 0.8rem);
+  font-size: clamp(0.65rem, 2.5cqw, 0.875rem);
   letter-spacing: 0.05rem;
   white-space: nowrap;
   display: block;
